@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Huawei" ext="" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="yes" Keywords3="no" Keywords4="yes" Keywords5="no" Keywords6="yes" Keywords7="yes" Keywords8="yes" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">license sysname diffserv port-wred &quot;ip vpn-instance&quot; interface l2tp-group bgp route-policy &quot;ip ip-prefix&quot; snmp-agent tunnel-policy aaa acl hwtacacs-server info-center bfd isis ospf user-interface vsi rsa ntp-service &quot;ip extcommunity-filter&quot; clock service-enhance cpu-defend service-template cfm dns flow-queue flow-wred qos-profile tunnel-selector &quot;mpls ldp&quot; dot1x-template&#x000D;&#x000A;nqa-server &quot;sftp server&quot; &quot;stelnet server&quot; &quot;ssh client&quot; nqa local-aaa-server explicit-path &quot;ip route-static&quot; slot FTP controller oam-mgr&#x000D;&#x000A;&quot;ip rd-filter&quot;&#x000D;&#x000A;&quot;traffic classifier&quot;&#x000D;&#x000A;&quot;traffic behavior&quot;&#x000D;&#x000A;&quot;traffic policy&quot;&#x000D;&#x000A;&quot;ssh user&quot;</Keywords>
+            <Keywords name="Keywords2">&quot;router id&quot; &quot;mpls lsr-id&quot;&#x000D;&#x000A;router-id&#x000D;&#x000A;10.&#x000D;&#x000A;172.&#x000D;&#x000A;192.&#x000D;&#x000A;0.0&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">vsi-id pwsignal tnl-policy encapsulation remote-ip remote-peer peer-public-key local-user accounting-scheme authorization-scheme authentication-mode authentication-scheme cost-style bandwidth-reference auto-cost&#x000D;&#x000A;is-level default-route-advertise log-peer-change preference traffic-eng link-protocol flow-stat circuit-type cost timer speed duplex negotiation port-queue priority vlan-type upstream link-type loopback-detect &quot;vrrp vrid&quot; destination tunnel-protocol tunnel-id &quot;mpls te&quot; &quot;mpls switch-l2vc&quot; peer graceful-restart is-name ve-group direct-route ipv4-family vpn-instance if-match extcommunity community local-preference preferred-value extcommunity-filter target-host sys-info command-privilege test-instance test-type source-address hardware-based destination-address discriminator vc-id min-tx-interval min-rx-interval idle-timeout ip-dscp-inbound vpn-target per-instance route-distinguisher virtual-ip reflect-client next-hop-local advertise-community source rule accounting-mode recording-scheme recording-mode lsp-generation source-interface unicast-server &quot;tunnel name&quot; as-number connect-interface group default-route ip-prefix &quot;user privilege level&quot; client-source ethernet-synchronization drop-rate &quot;next hop&quot; flash-flood &quot;undo dcn&quot; &quot;port trunk allow-pass vlan&quot; &quot;stp edged-port&quot; weight admin-vrrp &quot;vpn frr&quot; &quot;color green&quot; &quot;color yellow&quot; &quot;color red&quot; queue user-queue authentication-super authorization-mode &quot;mpls l2vc&quot; &quot;mpls l2vpn&quot; &quot;mpls rsvp-te&quot; &quot;port link-type&quot; mib-view destination-port fail-percent screen-length&#x000D;&#x000A;cpu-defend-policy&#x000D;&#x000A;load-balance&#x000D;&#x000A;l2vc&#x000D;&#x000A;&quot;port default vlan&quot;&#x000D;&#x000A;&quot;trust upstream&quot;&#x000D;&#x000A;&quot;l2 binding vsi&quot;&#x000D;&#x000A;switch-l2vc&#x000D;&#x000A;mpls-te&#x000D;&#x000A;process-pst&#x000D;&#x000A;portswitch&#x000D;&#x000A;&quot;statistic enable&quot;&#x000D;&#x000A;&quot;arp expire-time&quot;&#x000D;&#x000A;&quot;trust 8021p&quot;&#x000D;&#x000A;l2vpn-family&#x000D;&#x000A;vpls-family&#x000D;&#x000A;circuit-level&#x000D;&#x000A;area&#x000D;&#x000A;node&#x000D;&#x000A;network-type&#x000D;&#x000A;lacp-static&#x000D;&#x000A;admin-vsi&#x000D;&#x000A;mpls</Keywords>
+            <Keywords name="Keywords4">&quot;ip address&quot; &#x000D;&#x000A;255. &#x000D;&#x000A;network-entity&#x000D;&#x000A;&quot;ip binding vpn-instance&quot;&#x000D;&#x000A;49.&#x000D;&#x000A;Eth-Trunk&#x000D;&#x000A;GigabitEthernet&#x000D;&#x000A;auto-frr&#x000D;&#x000A;Virtual-Ethernet&#x000D;&#x000A;Vlanif&#x000D;&#x000A;Tunnel0&#x000D;&#x000A;Tunnel1&#x000D;&#x000A;Tunnel2&#x000D;&#x000A;Virtual-Template&#x000D;&#x000A;eth-trunk&#x000D;&#x000A;loopback&#x000D;&#x000A;Tunnel3&#x000D;&#x000A;transit-vpn&#x000D;&#x000A;Tunnel4&#x000D;&#x000A;Tunnel5&#x000D;&#x000A;Tunnel6&#x000D;&#x000A;Tunnel7&#x000D;&#x000A;Tunnel11&#x000D;&#x000A;Tunnel8&#x000D;&#x000A;Tunnel12&#x000D;&#x000A;LoopBack&#x000D;&#x000A;NULL&#x000D;&#x000A;Ethernet&#x000D;&#x000A;aux&#x000D;&#x000A;vty&#x000D;&#x000A;con&#x000D;&#x000A;Aux</Keywords>
+            <Keywords name="Keywords5">enable&#x000D;&#x000A;apply&#x000D;&#x000A;import-route&#x000D;&#x000A;network&#x000D;&#x000A;trust&#x000D;&#x000A;commit&#x000D;&#x000A;permit&#x000D;&#x000A;apply-label&#x000D;&#x000A;active&#x000D;&#x000A;&quot;undo shutdown&quot;</Keywords>
+            <Keywords name="Keywords6">&quot;description&quot;</Keywords>
+            <Keywords name="Keywords7">&quot;undo peer &quot;&#x000D;&#x000A;&quot;undo synchronization&quot;&#x000D;&#x000A;&quot;undo policy&quot;</Keywords>
+            <Keywords name="Keywords8">&quot;eth-trunk 2&quot;&#x000D;&#x000A;undo&#x000D;&#x000A;shutdown&#x000D;&#x000A;deny</Keywords>
+            <Keywords name="Delimiters"></Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="C0C0C0" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF0000" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="0000FF" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FF0080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="008040" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="800000" bgColor="FFFFFF" fontName="" fontStyle="5" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="00FF40" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="80FF80" bgColor="C0C0C0" fontName="" fontStyle="2" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="FF8080" bgColor="FFFFFF" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="FFFFFF" bgColor="FF8040" fontName="" fontStyle="1" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
