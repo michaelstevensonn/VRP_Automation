@@ -9,8 +9,8 @@ import time
 
 timestr = time.strftime("%Y%m%d_%H%M%S")
 outputfile = timestr + '-output.log'
-connection = netmiko.ConnectHandler(ip='192.168.99.77', device_type='linux', 
-                                username='Michael', password='65831120341Myt')
+connection = netmiko.ConnectHandler(ip='192.168.1.1', device_type='linux', 
+                                username='Michael', password='password')
 
 output=open(outputfile,'a')
 
