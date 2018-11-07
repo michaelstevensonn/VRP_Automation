@@ -14,9 +14,9 @@ outputfile = timestr + '-output.log'
 # Define the login info
 device = {
     'device_type': 'linux',
-    'host': '192.168.1.177',
+    'host': '192.168.1.1',
     'username': 'Michael',
-    'password': '65831120341Myt',
+    'password': 'password',
 } 
 
 # Connect to device using the parameters above
