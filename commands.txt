@@ -1,0 +1,7 @@
+ls -al
+uname -a
+cat /etc/*-release
+lsb_release -a
+ping 8.8.8.8 -c 10
+cat /etc/issue
+ip addr
